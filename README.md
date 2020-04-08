@@ -1,6 +1,6 @@
 # ssd-mobilenet-coco-tensorflowjs-model
 
-[Tensorflow.js]](https://js.tensorflow.org) pretrained model of ssd_mobilenet_v1_0.75_depth_coco
+[Tensorflow.js](https://js.tensorflow.org) pretrained model of ssd_mobilenet_v1_0.75_depth_coco
 
 ## How to use it?
 
